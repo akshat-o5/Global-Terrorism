@@ -2,7 +2,7 @@
 
 This project is a part of my Data Science and Business Analytics Internship at Sparks Foundation.
 
-Task 4: Exploratory Data Analysis - 'Terrorism
+Task 4: Exploratory Data Analysis - 'Terrorism'
 
 Perform Exploratory data analysis on dataset - Global Terrorism
 
